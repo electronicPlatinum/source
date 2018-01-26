@@ -1,2 +1,2 @@
 # electronicPlatinum
-EPL ERC20 Token contract
+EPL - ERC20 Token contract
